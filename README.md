@@ -1,2 +1,2 @@
 # webdevlabs
-Completed labs for Web Development
+Completed lab one for Web Development
